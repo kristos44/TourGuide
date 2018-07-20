@@ -29,9 +29,9 @@ public class BarsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.atraction_list, container, false);
 
         final ArrayList<Attraction> attractions = new ArrayList<>(Arrays.asList(
-            new Attraction("Biblioteka Pub", "Przyjemny oraz kameralny Pub położony w centrum miasta blisko ul.Piotrkowskiej. Z powodu bliskiego położenia Uniwersytetu Łódzkiego odwiedzany głównie przez studentów oraz młodych ludzi. Zróżnicowana muzyka, przyjemna obsługa oraz nie wygórowane ceny nadają niesamowity klimat temu miejscu.", R.drawable.bar01),
-            new Attraction("Irish Pub", "Irish Pub'77 istnieje od 1994 roku. Jest to miejsce skupiające różne środowiska naszego miasta. Atmosfera panująca w pubie gwarantuje dobrą zabawę dla tych wszystkich, którzy chcą miło spędzić swój wolny czas. Bardzo często wydawane są w pubie przyjęcia dla firmy polski i zagranicznych.", R.drawable.bar02),
-            new Attraction("Ambasada Club", "Ambasada to prestiżowy lokal znajdujący się w centrum miasta, na rogu ulic Zielonej i Al.Kościuszki. Klub Ambasada to dwie sale z dancefloorami, cztery bary obsługiwane przez profesjonalną obsługę barmańską i kelnerską oraz jedyny taki w Łodzi Bar Vip. Klub Ambasada jest jednym z największych miejsc na mapie klubowej Łodzi.", R.drawable.bar03)
+            new Attraction(getActivity().getString(R.string.bar_name_01), getActivity().getString(R.string.bar_description_01), R.drawable.bar01),
+            new Attraction(getActivity().getString(R.string.bar_name_02), getActivity().getString(R.string.bar_description_02), R.drawable.bar02),
+            new Attraction(getActivity().getString(R.string.bar_name_03), getActivity().getString(R.string.bar_description_03), R.drawable.bar03)
 
         ));
 

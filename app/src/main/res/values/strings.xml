@@ -8,4 +8,32 @@
     <string name="category_parks">Parki</string>
     <string name="category_bars">Bary</string>
     <string name="category_other">Inne</string>
+
+    <string name="museum_name_01">Muzeum Miasta Łodzi</string>
+    <string name="museum_name_02">Muzeum Tradycji Niepodległościowych w Łodzi</string>
+    <string name="museum_name_03">Radegast</string>
+    <string name="museum_description_01">Muzeum Miasta Łodzi – łódzkie muzeum mające swoją siedzibę w jednym z najbardziej okazałych budynków miasta, w dawnym pałacu łódzkiego fabrykanta Izraela Poznańskiego przy ul. Ogrodowej.</string>
+    <string name="museum_description_02">Muzeum Tradycji Niepodległościowych w Łodzi (nazwa obowiązująca od 1 stycznia 1990) – najdłużej funkcjonujące w Łodzi muzeum o profilu historycznym, powstałe w 1959 pod nazwą „Muzeum Historii Ruchu Rewolucyjnego”; samorządowe, gromadzące wszelkiego rodzaju pamiątki z zakresu tradycji niepodległościowych, przede wszystkim z Łodzi, regionu łódzkiego oraz wybiórczo Polski.</string>
+    <string name="museum_description_03">Radegast – właściwie „stacja Marysin”. W okresie II wojny światowej łódzki Umschlagplatz. Obecnie oddział „Stacja Radegast” Muzeum Tradycji Niepodległościowych w Łodzi, przy al. Pamięci Ofiar Litzmannstadt Getto 12.</string>
+
+    <string name="park_name_01">Park Mickiewicza</string>
+    <string name="park_name_02">Pasaż Abramowskiego</string>
+    <string name="park_name_03">Borek Lissnera</string>
+    <string name="park_description_01">Zwany "Parkiem Julianowskim" od fundatora Juliusza Heinzla. Jeden z największych łódzkich parków, w którego obrębie znajduje się pokaźnych rozmiarów staw, tzw. "muszla" koncertowa oraz jedna z większych łódzkich rzek – Sokołówka. Park ten niejednokrotnie porównywany jest do warszawskich Łazienek.</string>
+    <string name="park_description_02">Niewielki skwer łączący ulice: Henryka Sienkiewicza i Jana Kilińskiego. Nazwę swą wziął od biegnącej równolegle do niego ulicy Edwarda Abramowskiego (pasaż od ulicy dzieli zabudowa mieszkalna). Powstał on na dawnym terenie ogrodu Barcińskich. Jest miejscem odpoczynku i relaksu okolicznych mieszkańców i nie tylko. Zachętą do odwiedzania tego skweru jest duża ilość ławek oraz drzewostanu.</string>
+    <string name="park_description_03">Niewielki skwer imienia łódzkiego fabrykanta Józefa Lissnera. Park położony jest w sąsiedztwie zakładów chemicznych Organika S.A. z 1889 roku. Właścicielem był wtedy Józef Lissner.</string>
+
+    <string name="bar_name_01">Biblioteka Pub</string>
+    <string name="bar_name_02">Irish Pub</string>
+    <string name="bar_name_03">Ambasada Club</string>
+    <string name="bar_description_01">Przyjemny oraz kameralny Pub położony w centrum miasta blisko ul.Piotrkowskiej. Z powodu bliskiego położenia Uniwersytetu Łódzkiego odwiedzany głównie przez studentów oraz młodych ludzi. Zróżnicowana muzyka, przyjemna obsługa oraz nie wygórowane ceny nadają niesamowity klimat temu miejscu.</string>
+    <string name="bar_description_02">Irish Pub\'77 istnieje od 1994 roku. Jest to miejsce skupiające różne środowiska naszego miasta. Atmosfera panująca w pubie gwarantuje dobrą zabawę dla tych wszystkich, którzy chcą miło spędzić swój wolny czas. Bardzo często wydawane są w pubie przyjęcia dla firmy polski i zagranicznych.</string>
+    <string name="bar_description_03">Ambasada to prestiżowy lokal znajdujący się w centrum miasta, na rogu ulic Zielonej i Al.Kościuszki. Klub Ambasada to dwie sale z dancefloorami, cztery bary obsługiwane przez profesjonalną obsługę barmańską i kelnerską oraz jedyny taki w Łodzi Bar Vip. Klub Ambasada jest jednym z największych miejsc na mapie klubowej Łodzi.</string>
+
+    <string name="other_name_01">Manufaktura</string>
+    <string name="other_name_02">Ulica Piotrkowska</string>
+    <string name="other_name_03">Atlas Arena</string>
+    <string name="other_description_01">Centrum Handlowe Manufaktura – centrum handlowo-usługowo-rozrywkowe, otwarte 17 maja 2006 roku w Łodzi, pomiędzy ulicami Zachodnią, Ogrodową, Drewnowską i Karskiego, na terenie dawnego kompleksu fabrycznego Izraela Poznańskiego.</string>
+    <string name="other_description_02">Ulica Piotrkowska jest symbolem Łodzi. To historyczny trakt handlowy liczący 4,2 kilometry długości. Jest jedną z najdłuższych ulic handlowych w Europie.</string>
+    <string name="other_description_03">Atlas Arena – hala sportowo-widowiskowa w Łodzi. Trybuny mogą pomieścić 10.049 widzów, a na płycie można ustawić dodatkowo 3 tys. miejsc; do dyspozycji gości dostępnych jest 1500 miejsc postojowych, 4 ekrany multimedialne, i 11 loży VIP-owskich.</string>
 </resources>

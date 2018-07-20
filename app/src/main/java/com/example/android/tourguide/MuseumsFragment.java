@@ -29,9 +29,9 @@ public class MuseumsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.atraction_list, container, false);
 
         final ArrayList<Attraction> attractions = new ArrayList<>(Arrays.asList(
-            new Attraction("Muzeum Miasta Łodzi", "Muzeum Miasta Łodzi – łódzkie muzeum mające swoją siedzibę w jednym z najbardziej okazałych budynków miasta, w dawnym pałacu łódzkiego fabrykanta Izraela Poznańskiego przy ul. Ogrodowej."),
-            new Attraction("Muzeum Tradycji Niepodległościowych w Łodzi", "Muzeum Tradycji Niepodległościowych w Łodzi (nazwa obowiązująca od 1 stycznia 1990) – najdłużej funkcjonujące w Łodzi muzeum o profilu historycznym, powstałe w 1959 pod nazwą „Muzeum Historii Ruchu Rewolucyjnego”; samorządowe, gromadzące wszelkiego rodzaju pamiątki z zakresu tradycji niepodległościowych, przede wszystkim z Łodzi, regionu łódzkiego oraz wybiórczo Polski."),
-            new Attraction("Radegast", "Radegast – właściwie „stacja Marysin”. W okresie II wojny światowej łódzki Umschlagplatz. Obecnie oddział „Stacja Radegast” Muzeum Tradycji Niepodległościowych w Łodzi, przy al. Pamięci Ofiar Litzmannstadt Getto 12.")
+            new Attraction(getActivity().getString(R.string.museum_name_01), getActivity().getString(R.string.museum_description_01)),
+            new Attraction(getActivity().getString(R.string.museum_name_02), getActivity().getString(R.string.museum_description_02)),
+            new Attraction(getActivity().getString(R.string.museum_name_03), getActivity().getString(R.string.museum_description_03))
 
         ));
 
